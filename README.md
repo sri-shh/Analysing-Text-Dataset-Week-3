@@ -20,6 +20,7 @@ Insight: For this question, the word frequency results and word cloud showed tha
 
 
 TASK 107
+
 Proposed task:
 I propose building a classifier that can predict whether a piece of content is text or code. This would use the content column as input, and the type column (text/code) as the output we’re trying to predict.
 
